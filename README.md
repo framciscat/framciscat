@@ -1,5 +1,5 @@
-<h1 align="center">Hello word! my name is Francisca Madariaga</h1>
-<h3 align="center">Front-End Developer Junior en constante formación</h3>
+<h1 align="center"> Hello world! my name is Francisca Madariaga</h1>
+<h3 align="center">Front-End Developer Junior in constant formation</h3>
 
 - 📫 How to reach me **fmadariagab1@gmail.com**
 
