@@ -1,4 +1,4 @@
-<h3 align="center" style="color:powderblue;">¡Bienvenid@! Mi nombre es Francisca y estoy formandome para convertirme en Analista QA 👩‍💻</h3>
+<h3 align="center" style="color:powderblue;">¡Bienvenid@ a mi perfil! 👩‍💻</h3>
 
 
 <img src="http://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/cc396cfc380f0c6.png" alt="witch cat" height="200px">
